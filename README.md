@@ -10,6 +10,8 @@ in order to resolve the name to ip, which it will register in
 the Hashtable and in addition will add it (append) at the end
 of the "hosts.txt" file.
 
+**1st Option** Run it from **Command Line**:
+
 **1) Compile & Run Server**
 
 -> javac Dns_Server.java
@@ -24,3 +26,5 @@ of the "hosts.txt" file.
 -> java Dns_Client
 
    After type a domain name to resolve it to IP Address
+   
+**2nd Option** Run it from **IDE!**
