@@ -54,9 +54,9 @@ public class Dns_Client {
             }
             else
             {
-		    //Print the HostName and the IP Address
-			System.out.println("");
-			System.out.println("* *********************** *");
+	    //Print the HostName and the IP Address
+	    System.out.println("");
+	    System.out.println("* *********************** *");
             System.out.println("* The Dns Server response *");
             System.out.println("* *********************** *");
             System.out.println("Hostname   : "+ HostName);
